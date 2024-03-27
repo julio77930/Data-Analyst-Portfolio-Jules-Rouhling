@@ -6,7 +6,7 @@ Il référence essentiellement les projets que j'ai réalisés durant ma formati
 
 J'ai réalisé exactement **13 projets** qui ont tous été présentés à un jury composé de professionnels du secteur et validés. Je présente les plus intéressants dans ce portfolio.
 
-Le lien de la formation : openclassrooms.com/fr/paths/804-data-analyst
+Le lien de la formation : https://openclassrooms.com/fr/paths/804-data-analyst
 
 **Projets présentés (par ordre de réalisation)** :
 * Réalisez une étude de santé publique avec **Python**
