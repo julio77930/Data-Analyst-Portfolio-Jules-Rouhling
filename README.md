@@ -6,7 +6,7 @@ Il référence essentiellement les projets que j'ai réalisés durant ma formati
 
 J'ai réalisé exactement **13 projets** qui ont tous été présentés à un jury composé de professionnels du secteur et validés. Je présente les plus intéressants dans ce portfolio.
 
-Dans chacun des projets, le travail préparatoire des données (analyse des valeurs aberrantes ou "outliers", analyse des valeurs nulles, cohérence des données, jointures, etc.) a toujours été réalisé. Les 6 principes RGPD ont également toujours été scrupuleusement respectés.
+Dans chacun des projets, le travail préparatoire des données (analyse des valeurs aberrantes ou "outliers", analyse des valeurs nulles, cohérence des données, caractérisation des variables jointures, etc.) a été réalisé. Les 6 principes RGPD ont également toujours été scrupuleusement respectés.
 
 Un support de présentation présentant la méthodologie et les résulats est systématiquement accessible.
 
