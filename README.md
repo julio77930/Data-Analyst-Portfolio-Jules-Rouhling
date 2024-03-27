@@ -11,4 +11,5 @@ Le lien de la formation : https://openclassrooms.com/fr/paths/804-data-analyst
 **Projets présentés** :
 * Réalisez une étude de santé publique avec Python
 * Créez et utilisez une base de données immobilière avec SQL
+* Optimisez la gestion des données d'une boutique avec R ou Python
 * 
