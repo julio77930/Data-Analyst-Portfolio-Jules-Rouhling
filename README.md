@@ -8,8 +8,12 @@ J'ai réalisé exactement **13 projets**, et je présente les plus intéressants
 
 Le lien de la formation : https://openclassrooms.com/fr/paths/804-data-analyst
 
-**Projets présentés** :
-* Réalisez une étude de santé publique avec Python
-* Créez et utilisez une base de données immobilière avec SQL
-* Optimisez la gestion des données d'une boutique avec R ou Python
-* 
+**Projets présentés (par ordre de réalisation)** :
+* Réalisez une étude de santé publique avec **Python**
+* Créez et utilisez une base de données immobilière avec **SQL**
+* Optimisez la gestion des données d'une boutique avec **Python**
+* Analysez des indicateurs de l'égalité femme-homme en respect du RGPD avec **Knime**
+* Analysez les ventes d'une librairie avec **Python**
+* Faites une étude sur l'eau potable avec **Power BI**
+* Produisez une étude de marché avec **Python**
+* Détectez des faux billets avec **Python**
