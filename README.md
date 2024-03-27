@@ -1,4 +1,4 @@
-Portfolio Data Analyst
+###**Portfolio Data Analyst**###
 
 Ce portfolio réalisé sur GitHub se destine à mon futur employeur ou à mes futures clients pour qu'ils puissent avoir un aperçu des principaux projets que j'ai réalisés en tant que Data Analyst.
 Il référence essentiellement les projets que j'ai réalisés durant ma formation effectuée entre novembre 2023 et avril 2024 avec l'organisme OpenClassrooms.
