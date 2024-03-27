@@ -16,4 +16,4 @@ Le lien de la formation : https://openclassrooms.com/fr/paths/804-data-analyst
 * Analysez les ventes d'une librairie avec **Python**
 * Faites une étude sur l'eau potable avec **Power BI**
 * Produisez une étude de marché avec **Python**
-* Détectez des faux billets avec **Python**
+* Détectez des faux billets en machine learning avec **Python**
