@@ -11,9 +11,17 @@ Le lien de la formation : https://openclassrooms.com/fr/paths/804-data-analyst
 **Projets présentés (par ordre de réalisation)** :
 * Réalisez une étude de santé publique avec **Python**
 * Créez et utilisez une base de données immobilière avec **SQL**
+  * mise à jour données + requêtes métier
 * Optimisez la gestion des données d'une boutique avec **Python**
+  * génération des graphiques adaptés, synthèse des résultats
 * Analysez des indicateurs de l'égalité femme-homme en respect du RGPD avec **Knime**
+  * workflow permettant de remplir la matrice gouvernementale automatiquement à partir des données initiales de l'entreprise, en respect des principes RGPD
 * Analysez les ventes d'une librairie avec **Python**
+  * test statistique et analyse bivariée, analyses temporelles
 * Faites une étude sur l'eau potable avec **Power BI**
+  * création de tableaux de bord pédagogiques pour répondre à des problématiques métier avec plusieurs vues et différents indicateurs
 * Produisez une étude de marché avec **Python**
+  * recherche libre des bases de données initiales en Open Source, analyse en kmeans + ACP + classification ascendante hiérarchique pour définir des clusters de pays
 * Détectez des faux billets en machine learning avec **Python**
+  * premier notebook de training en kmeans, KNN, random forest et régression logistique pour déterminer le meilleur modèle de détection de vrais/faux billets
+  * deuxième notebook pour prédire automatiquement la nature des billets selon leurs dimensions géométriques
