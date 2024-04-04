@@ -2,15 +2,13 @@
 
 Ce portfolio réalisé sur GitHub se destine à mon futur employeur ou à mes futures clients pour qu'ils puissent avoir un aperçu des principaux projets que j'ai réalisés en tant que Data Analyst.
 
-Il référence essentiellement les projets que j'ai réalisés durant ma formation effectuée **entre novembre 2023 et avril 2024 avec l'organisme OpenClassrooms**.
+Il référence essentiellement les projets que j'ai réalisés durant ma formation effectuée **entre novembre 2023 et avril 2024 avec l'organisme [OpenClassrooms](https://openclassrooms.com/fr/paths/804-data-analyst)**.
 
 J'ai réalisé exactement **13 projets** qui ont tous été présentés à un jury composé de professionnels du secteur et validés. Je présente les plus intéressants dans ce portfolio.
 
 Dans chacun des projets, le travail préparatoire des données (analyse des valeurs aberrantes ou "outliers", analyse des valeurs nulles, cohérence des données, caractérisation des variables, jointures, etc.) a été réalisé. Les 6 principes RGPD ont également toujours été scrupuleusement respectés.
 
 Un support de présentation présentant la méthodologie et les résulats est systématiquement accessible.
-
-Le lien de la formation suivie est le suivant : https://openclassrooms.com/fr/paths/804-data-analyst
 
 **Projets présentés (par ordre de réalisation)** :
 * Réalisez une étude de santé publique avec **Python**
