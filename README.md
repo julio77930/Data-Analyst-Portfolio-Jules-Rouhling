@@ -11,7 +11,7 @@ Dans chacun des projets, le travail préparatoire des données (analyse des vale
 Un support de présentation présentant la méthodologie et les résulats est systématiquement accessible.
 
 **Projets présentés (par ordre de réalisation)** :
-* [Réalisez une étude de santé publique avec **Python**](docs/Réalisez une étude de santé publique avec R ou Python)
+* [Réalisez une étude de santé publique avec **Python**](docs/Réalisez une étude de santé publique avec R ou Python.md)
 * Créez et utilisez une base de données immobilière avec **SQL**
   * mise à jour données + requêtes métier
 * Optimisez la gestion des données d'une boutique avec **Python**
