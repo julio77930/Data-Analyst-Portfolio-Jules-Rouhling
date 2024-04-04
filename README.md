@@ -11,7 +11,7 @@ Dans chacun des projets, le travail préparatoire des données (analyse des vale
 Un support de présentation présentant la méthodologie et les résulats est systématiquement accessible.
 
 **Projets présentés (par ordre de réalisation)** :
-* [Réalisez une étude de santé publique avec **Python**](/Data-Analyst-Portfolio-Jules-Rouhling/Réalisez une étude de santé publique avec R ou Python)
+* [Réalisez une étude de santé publique avec **Python**]([/Data-Analyst-Portfolio-Jules-Rouhling/Réalisez une étude de santé publique avec R ou Python](https://github.com/julio77930/Data-Analyst-Portfolio-Jules-Rouhling/tree/main/R%C3%A9alisez%20une%20%C3%A9tude%20de%20sant%C3%A9%20publique%20avec%20R%20ou%20Python))
 * Créez et utilisez une base de données immobilière avec **SQL**
   * mise à jour données + requêtes métier
 * Optimisez la gestion des données d'une boutique avec **Python**
