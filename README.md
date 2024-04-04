@@ -12,18 +12,18 @@ Un support de présentation présentant la méthodologie et les résulats est sy
 
 **Projets présentés (par ordre de réalisation)** :
 * [Réalisez une étude de santé publique avec **Python**](https://github.com/julio77930/Data-Analyst-Portfolio-Jules-Rouhling/tree/main/R%C3%A9alisez%20une%20%C3%A9tude%20de%20sant%C3%A9%20publique%20avec%20R%20ou%20Python)
-* Créez et utilisez une base de données immobilière avec **SQL**
+* [Créez et utilisez une base de données immobilière avec **SQL**](https://github.com/julio77930/Data-Analyst-Portfolio-Jules-Rouhling/tree/main/Cr%C3%A9ez%20et%20utilisez%20une%20base%20de%20donn%C3%A9es%20immobili%C3%A8re%20avec%20SQL)
   * mise à jour données + requêtes métier
-* Optimisez la gestion des données d'une boutique avec **Python**
+* [Optimisez la gestion des données d'une boutique avec **Python**](https://github.com/julio77930/Data-Analyst-Portfolio-Jules-Rouhling/tree/main/Optimisez%20la%20gestion%20des%20donn%C3%A9es%20d'une%20boutique%20avec%20R%20ou%20Python)
   * génération des graphiques adaptés, synthèse des résultats
-* Analysez des indicateurs de l'égalité femme-homme en respect du RGPD avec **Knime**
+* [Analysez des indicateurs de l'égalité femme-homme en respect du RGPD avec **Knime**](https://github.com/julio77930/Data-Analyst-Portfolio-Jules-Rouhling/tree/main/Analysez%20des%20indicateurs%20de%20l'%C3%A9galit%C3%A9%20femme-homme%20en%20respect%20du%20RGPD%20avec%20Knime)
   * workflow permettant de remplir la matrice gouvernementale automatiquement à partir des données initiales de l'entreprise, en respect des principes RGPD
-* Analysez les ventes d'une librairie avec **Python**
+* [Analysez les ventes d'une librairie avec **Python**](https://github.com/julio77930/Data-Analyst-Portfolio-Jules-Rouhling/tree/main/Analysez%20les%20ventes%20d'une%20librairie%20avec%20Python)
   * test statistique et analyse bivariée, analyses temporelles
-* Faites une étude sur l'eau potable avec **Power BI**
+* [Faites une étude sur l'eau potable avec **Power BI**](https://github.com/julio77930/Data-Analyst-Portfolio-Jules-Rouhling/tree/main/Faites%20une%20%C3%A9tude%20sur%20l'eau%20potable%20avec%20Power%20BI)
   * création de tableaux de bord pédagogiques pour répondre à des problématiques métier avec plusieurs vues et différents indicateurs
-* Produisez une étude de marché avec **Python**
+* [Produisez une étude de marché avec **Python**](https://github.com/julio77930/Data-Analyst-Portfolio-Jules-Rouhling/tree/main/Produisez%20une%20%C3%A9tude%20de%20march%C3%A9%20avec%20Python)
   * recherche libre des bases de données initiales en Open Source, analyse en kmeans + ACP + classification ascendante hiérarchique pour définir des clusters de pays
-* Détectez des faux billets en machine learning avec **Python**
+* [Détectez des faux billets en machine learning avec **Python**](https://github.com/julio77930/Data-Analyst-Portfolio-Jules-Rouhling/tree/main/D%C3%A9tectez%20des%20faux%20billets%20avec%20Python)
   * premier notebook de training en kmeans, KNN, random forest et régression logistique pour déterminer le meilleur modèle de détection de vrais/faux billets
   * deuxième notebook pour prédire automatiquement la nature des billets selon leurs dimensions géométriques
