@@ -27,5 +27,5 @@ Un support de présentation présentant la méthodologie et les résulats est sy
 * [Détectez des faux billets en machine learning avec **Python**](https://github.com/julio77930/Data-Analyst-Portfolio-Jules-Rouhling/tree/main/D%C3%A9tectez%20des%20faux%20billets%20avec%20Python)
   * premier notebook de training en kmeans, KNN, random forest et régression logistique pour déterminer le meilleur modèle de détection de vrais/faux billets
   * deuxième notebook pour prédire automatiquement la nature des billets selon leurs dimensions géométriques
-* [Créez votre portfolio de professionnel de la data](https://github.com/julio77930/Data-Analyst-Portfolio-Jules-Rouhling/tree/main/Cr%C3%A9ez%20votre%20portfolio%20de%20professionnel%20de%20la%20data)
+* [Créez votre portfolio de professionnel de la data avec **Tableau**, **Excel**](https://github.com/julio77930/Data-Analyst-Portfolio-Jules-Rouhling/tree/main/Cr%C3%A9ez%20votre%20portfolio%20de%20professionnel%20de%20la%20data)
   * création d'un portfolio projet complet pour travailler son employabilité
