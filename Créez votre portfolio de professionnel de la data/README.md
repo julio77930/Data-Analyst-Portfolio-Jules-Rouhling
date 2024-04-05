@@ -1,4 +1,4 @@
-###**Créez votre portfolio de professionnel de la data**
+**Créez votre portfolio de professionnel de la data**
 
 Ce projet a pour but de vous permettre de rédiger un portfolio en ligne personnalisé afin de travailler votre employabilité.
 
