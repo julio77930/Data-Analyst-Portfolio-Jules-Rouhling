@@ -8,7 +8,7 @@ J'ai réalisé exactement **13 projets** qui ont tous été présentés à un ju
 
 Dans chacun des projets, le travail préparatoire des données (analyse des valeurs aberrantes ou "outliers", analyse des valeurs nulles, cohérence des données, caractérisation des variables, jointures, etc.) a été réalisé. Les 6 principes RGPD ont également toujours été scrupuleusement respectés.
 
-Un support de présentation présentant la méthodologie et les résulats est systématiquement accessible.
+Un support de présentation présentant la méthodologie et les résultats est systématiquement accessible.
 
 **Projets présentés (par ordre de réalisation)** :
 * [Réalisez une étude de santé publique avec **Python**](https://github.com/julio77930/Data-Analyst-Portfolio-Jules-Rouhling/tree/main/R%C3%A9alisez%20une%20%C3%A9tude%20de%20sant%C3%A9%20publique%20avec%20R%20ou%20Python)
