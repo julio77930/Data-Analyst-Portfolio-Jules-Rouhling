@@ -13,4 +13,5 @@ Ce portfolio comprend :
   * un diagramme de Gantt relatif au planning de création du portfolio
 
 [Vidéo "Créer un graphique simple sur Tableau Software web edit - step by step"](https://www.youtube.com/watch?v=lCPP3Up25JM&t=85s)
+
 [Tableau de veille Data Analyst sur Miro](https://miro.com/app/board/uXjVKbnmLDU=/)
