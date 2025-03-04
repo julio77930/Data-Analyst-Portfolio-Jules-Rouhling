@@ -4,7 +4,8 @@ Ce portfolio réalisé sur GitHub se destine à mon futur employeur ou à mes fu
 
 Il référence essentiellement les projets que j'ai réalisés durant ma formation effectuée **entre novembre 2023 et avril 2024 avec l'organisme [OpenClassrooms](https://openclassrooms.com/fr/paths/804-data-analyst)**.
 
-J'ai réalisé exactement **13 projets** qui ont tous été présentés à un jury composé de professionnels du secteur et validés. Je présente les plus intéressants dans ce portfolio.
+J'ai réalisé exactement **13 projets** qui ont tous été présentés à un jury composé de professionnels du secteur et validés. 
+Je présente les plus intéressants dans ce portfolio.
 
 Dans chacun des projets, le travail préparatoire des données (analyse des valeurs aberrantes ou "outliers", analyse des valeurs nulles, cohérence des données, caractérisation des variables, jointures, etc.) a été réalisé. Les 6 principes RGPD ont également toujours été scrupuleusement respectés.
 
